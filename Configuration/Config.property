@@ -1,0 +1,5 @@
+ChromeDriver=C:\\Users\\Admin\\eclipse-workspace\\ApachePOI\\server\\chromedriver.exe
+FirefoxDriver=C:\\Users\\Admin\\eclipse-workspace\\ApachePOI\\server\\geckodriver.exe
+EdgeDriver=C:\Users\Admin\eclipse-workspace\ApachePOI\server\msedgedriver.exe
+URL=http://www.learn-automation.com
+ExcelPath=
